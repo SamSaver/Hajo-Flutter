@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857160309420",
+    "project_id": "hajo-flutter",
+    "storage_bucket": "hajo-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857160309420:android:3fbb88af84dd2580f71d09",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857160309420-0lnlvv1ju24ic0m5ss9mjjbcoruih0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJ5Nu4uLNlAj0Q8mQ4QL-pI-s0jCT-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857160309420-0lnlvv1ju24ic0m5ss9mjjbcoruih0g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
